@@ -32,11 +32,11 @@
         
         button {
             color: green(250, 217, 227);
-            background-color: #996AEC;
-            width: 50px;
-            height: 35px;
+            background-color: red;
+            width: 100px;
+            height: 70px;
             font-weight: bold;
-            font-size: 10px;
+            font-size: 20px;
         }
         
         button:hover {
